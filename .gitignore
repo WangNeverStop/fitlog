@@ -1,0 +1,41 @@
+# Built application files / 编译产物
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc) / 本机 SDK 路径，不应提交
+local.properties
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+*.hprof
+.kotlin/
+
+# Keystore files (signing) / 签名密钥，绝不提交
+*.jks
+*.keystore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Skill library is reference material, not app code / 技能库为参考资料，不随 App 代码提交
+/skills-library/

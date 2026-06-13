@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme. The Compose UI supplies the real Material 3 colours;
+         this XML theme is only used before Compose takes over. -->
+    <style name="Theme.FitLog" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

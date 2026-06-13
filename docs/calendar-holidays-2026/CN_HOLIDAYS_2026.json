@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "country": "CN",
+  "year": 2026,
+  "source": {
+    "title": "国务院办公厅关于2026年部分节假日安排的通知",
+    "document_no": "国办发明电〔2025〕7号",
+    "publisher": "国务院办公厅",
+    "published_date": "2025-11-04",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm"
+  },
+  "display_rules": {
+    "calendar_priority": "training_part_first_holiday_second_personal_note_third",
+    "holiday_short_label": "休",
+    "workday_short_label": "班",
+    "readonly": true,
+    "user_editable": false
+  },
+  "events": [
+    {"date":"2026-01-01","weekday":"Thu","type":"holiday","holiday_id":"new_year","name":"元旦","short_name":"元旦","display_label":"休","description":"元旦假期第1天，共3天。"},
+    {"date":"2026-01-02","weekday":"Fri","type":"holiday","holiday_id":"new_year","name":"元旦","short_name":"元旦","display_label":"休","description":"元旦假期第2天，共3天。"},
+    {"date":"2026-01-03","weekday":"Sat","type":"holiday","holiday_id":"new_year","name":"元旦","short_name":"元旦","display_label":"休","description":"元旦假期第3天，共3天。"},
+    {"date":"2026-01-04","weekday":"Sun","type":"adjusted_workday","holiday_id":"new_year","name":"元旦调休上班","short_name":"上班","display_label":"班","description":"元旦调休上班日。"},
+
+    {"date":"2026-02-14","weekday":"Sat","type":"adjusted_workday","holiday_id":"spring_festival","name":"春节调休上班","short_name":"上班","display_label":"班","description":"春节调休上班日。"},
+    {"date":"2026-02-15","weekday":"Sun","type":"holiday","holiday_id":"spring_festival","name":"春节","short_name":"春节","display_label":"休","description":"春节假期第1天，共9天。"},
+    {"date":"2026-02-16","weekday":"Mon","type":"holiday","holiday_id":"spring_festival","name":"春节","short_name":"春节","display_label":"休","description":"春节假期第2天，共9天。"},
+    {"date":"2026-02-17","weekday":"Tue","type":"holiday","holiday_id":"spring_festival","name":"春节","short_name":"春节","display_label":"休","description":"春节假期第3天，共9天。"},
+    {"date":"2026-02-18","weekday":"Wed","type":"holiday","holiday_id":"spring_festival","name":"春节","short_name":"春节","display_label":"休","description":"春节假期第4天，共9天。"},
+    {"date":"2026-02-19","weekday":"Thu","type":"holiday","holiday_id":"spring_festival","name":"春节","short_name":"春节","display_label":"休","description":"春节假期第5天，共9天。"},
+    {"date":"2026-02-20","weekday":"Fri","type":"holiday","holiday_id":"spring_festival","name":"春节","short_name":"春节","display_label":"休","description":"春节假期第6天，共9天。"},
+    {"date":"2026-02-21","weekday":"Sat","type":"holiday","holiday_id":"spring_festival","name":"春节","short_name":"春节","display_label":"休","description":"春节假期第7天，共9天。"},
+    {"date":"2026-02-22","weekday":"Sun","type":"holiday","holiday_id":"spring_festival","name":"春节","short_name":"春节","display_label":"休","description":"春节假期第8天，共9天。"},
+    {"date":"2026-02-23","weekday":"Mon","type":"holiday","holiday_id":"spring_festival","name":"春节","short_name":"春节","display_label":"休","description":"春节假期第9天，共9天。"},
+    {"date":"2026-02-28","weekday":"Sat","type":"adjusted_workday","holiday_id":"spring_festival","name":"春节调休上班","short_name":"上班","display_label":"班","description":"春节调休上班日。"},
+
+    {"date":"2026-04-04","weekday":"Sat","type":"holiday","holiday_id":"qingming","name":"清明节","short_name":"清明","display_label":"休","description":"清明节假期第1天，共3天。"},
+    {"date":"2026-04-05","weekday":"Sun","type":"holiday","holiday_id":"qingming","name":"清明节","short_name":"清明","display_label":"休","description":"清明节假期第2天，共3天。"},
+    {"date":"2026-04-06","weekday":"Mon","type":"holiday","holiday_id":"qingming","name":"清明节","short_name":"清明","display_label":"休","description":"清明节假期第3天，共3天。"},
+
+    {"date":"2026-05-01","weekday":"Fri","type":"holiday","holiday_id":"labor_day","name":"劳动节","short_name":"劳动","display_label":"休","description":"劳动节假期第1天，共5天。"},
+    {"date":"2026-05-02","weekday":"Sat","type":"holiday","holiday_id":"labor_day","name":"劳动节","short_name":"劳动","display_label":"休","description":"劳动节假期第2天，共5天。"},
+    {"date":"2026-05-03","weekday":"Sun","type":"holiday","holiday_id":"labor_day","name":"劳动节","short_name":"劳动","display_label":"休","description":"劳动节假期第3天，共5天。"},
+    {"date":"2026-05-04","weekday":"Mon","type":"holiday","holiday_id":"labor_day","name":"劳动节","short_name":"劳动","display_label":"休","description":"劳动节假期第4天，共5天。"},
+    {"date":"2026-05-05","weekday":"Tue","type":"holiday","holiday_id":"labor_day","name":"劳动节","short_name":"劳动","display_label":"休","description":"劳动节假期第5天，共5天。"},
+    {"date":"2026-05-09","weekday":"Sat","type":"adjusted_workday","holiday_id":"labor_day","name":"劳动节调休上班","short_name":"上班","display_label":"班","description":"劳动节调休上班日。"},
+
+    {"date":"2026-06-19","weekday":"Fri","type":"holiday","holiday_id":"dragon_boat","name":"端午节","short_name":"端午","display_label":"休","description":"端午节假期第1天，共3天。"},
+    {"date":"2026-06-20","weekday":"Sat","type":"holiday","holiday_id":"dragon_boat","name":"端午节","short_name":"端午","display_label":"休","description":"端午节假期第2天，共3天。"},
+    {"date":"2026-06-21","weekday":"Sun","type":"holiday","holiday_id":"dragon_boat","name":"端午节","short_name":"端午","display_label":"休","description":"端午节假期第3天，共3天。"},
+
+    {"date":"2026-09-20","weekday":"Sun","type":"adjusted_workday","holiday_id":"national_day","name":"国庆节调休上班","short_name":"上班","display_label":"班","description":"国庆节调休上班日。"},
+    {"date":"2026-09-25","weekday":"Fri","type":"holiday","holiday_id":"mid_autumn","name":"中秋节","short_name":"中秋","display_label":"休","description":"中秋节假期第1天，共3天。"},
+    {"date":"2026-09-26","weekday":"Sat","type":"holiday","holiday_id":"mid_autumn","name":"中秋节","short_name":"中秋","display_label":"休","description":"中秋节假期第2天，共3天。"},
+    {"date":"2026-09-27","weekday":"Sun","type":"holiday","holiday_id":"mid_autumn","name":"中秋节","short_name":"中秋","display_label":"休","description":"中秋节假期第3天，共3天。"},
+
+    {"date":"2026-10-01","weekday":"Thu","type":"holiday","holiday_id":"national_day","name":"国庆节","short_name":"国庆","display_label":"休","description":"国庆节假期第1天，共7天。"},
+    {"date":"2026-10-02","weekday":"Fri","type":"holiday","holiday_id":"national_day","name":"国庆节","short_name":"国庆","display_label":"休","description":"国庆节假期第2天，共7天。"},
+    {"date":"2026-10-03","weekday":"Sat","type":"holiday","holiday_id":"national_day","name":"国庆节","short_name":"国庆","display_label":"休","description":"国庆节假期第3天，共7天。"},
+    {"date":"2026-10-04","weekday":"Sun","type":"holiday","holiday_id":"national_day","name":"国庆节","short_name":"国庆","display_label":"休","description":"国庆节假期第4天，共7天。"},
+    {"date":"2026-10-05","weekday":"Mon","type":"holiday","holiday_id":"national_day","name":"国庆节","short_name":"国庆","display_label":"休","description":"国庆节假期第5天，共7天。"},
+    {"date":"2026-10-06","weekday":"Tue","type":"holiday","holiday_id":"national_day","name":"国庆节","short_name":"国庆","display_label":"休","description":"国庆节假期第6天，共7天。"},
+    {"date":"2026-10-07","weekday":"Wed","type":"holiday","holiday_id":"national_day","name":"国庆节","short_name":"国庆","display_label":"休","description":"国庆节假期第7天，共7天。"},
+    {"date":"2026-10-10","weekday":"Sat","type":"adjusted_workday","holiday_id":"national_day","name":"国庆节调休上班","short_name":"上班","display_label":"班","description":"国庆节调休上班日。"}
+  ]
+}
