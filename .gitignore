@@ -39,3 +39,7 @@ Thumbs.db
 
 # Skill library is reference material, not app code / 技能库为参考资料，不随 App 代码提交
 /skills-library/
+
+# Internal development log / agent-collaboration notes / data sources — kept local only,
+# not part of the published app. / 开发过程记录、协作笔记与数据源仅留本地，不上传。
+/docs/
