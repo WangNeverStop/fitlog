@@ -89,9 +89,10 @@
 
 ## 📦 下载与安装
 
-> FitLog 通过 **APK 侧载** 安装（不上架应用商店）。
+> FitLog 通过 **APK 侧载** 安装（不上架应用商店）。本仓库为私有，安装包统一发布在公开下载仓库：
+> **👉 https://github.com/WangNeverStop/fitlog-releases/releases**
 
-1. 到本仓库的 **[Releases](../../releases)** 页面，下载最新的 `FitLog-vX.X.X.apk`
+1. 打开 [**下载页 Releases**](https://github.com/WangNeverStop/fitlog-releases/releases)，下载最新的 `FitLog-vX.X.X.apk`
 2. 把 APK 传到手机（微信 / QQ / 数据线 / 网盘均可）
 3. 在手机上点开 APK 安装：首次会提示**「允许安装未知来源应用」**，按提示去设置里打开对应来源的权限即可
 4. 安装完成，打开 App，新建一个用户，开练 💪
