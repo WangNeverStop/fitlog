@@ -24,14 +24,9 @@
 
 <div align="center">
 
-<!-- 截图占位：在仓库根目录新建 screenshots/ 文件夹放入图片后，下面会自动显示 -->
-<!-- Add PNGs under screenshots/ and they will render here. -->
-
-| 首页 | 训练中 | 日历 | 肌肉图 |
+| 首页 | 正式训练 | 日历 | 动作 · 肌肉图 |
 |:---:|:---:|:---:|:---:|
-| ![home](screenshots/home.png) | ![session](screenshots/session.png) | ![calendar](screenshots/calendar.png) | ![muscle](screenshots/muscle.png) |
-
-*（截图待补充 / screenshots coming soon）*
+| <img src="screenshots/home.jpg" width="200"/> | <img src="screenshots/session.jpg" width="200"/> | <img src="screenshots/calendar.jpg" width="200"/> | <img src="screenshots/muscle.jpg" width="200"/> |
 
 </div>
 
